@@ -171,6 +171,4 @@ Quando queremos **explorar caminhos profundos ou todas as possibilidades**.
 
 ---
 
-✔ Esse é **um segundo exemplo diferente** que você pode usar no trabalho.
-✔ Mostra **outra árvore de decisão**.
-✔ O código continua atendendo **todos os critérios da atividade**.
+
